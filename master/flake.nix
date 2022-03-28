@@ -11,7 +11,6 @@
   inputs.src-delight-master.ref   = "refs/heads/master";
   inputs.src-delight-master.owner = "liquid600pgm";
   inputs.src-delight-master.repo  = "delight";
-  inputs.src-delight-master.dir   = "";
   inputs.src-delight-master.type  = "github";
   
   inputs."glm".owner = "nim-nix-pkgs";
